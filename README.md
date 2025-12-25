@@ -6,7 +6,7 @@
 **Senior CS Undergrad @ Tuskegee University** | **Machine Learning** | **Software Engineer**
 ---
 
-###About Me
+### About Me
 
 Welcome! As a software engineer, I love navigating consumer needs while creating robust, accessible applications to solve problems. I enjoy exploring the depths of End-to-End Machine Learning from data pipelining to deployment, and I am always open to using new tools and conquering new frameworks.
 
