@@ -1,5 +1,6 @@
 # Hello, I'm Jordan Hunt 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/jordan-hunt-4810a8173 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordan0110hunt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jordan-hunt-4810a8173) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordan0110hunt@gmail.com)
+
 😄 Pronouns: He/Him
 
 **Senior CS Undergrad @ Tuskegee University** | **Machine Learning** | **Software Engineer**
