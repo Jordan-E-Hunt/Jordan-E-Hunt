@@ -5,6 +5,7 @@
 
 **Senior CS Undergrad @ Tuskegee University** | **Machine Learning** | **Software Engineer**
 ---
+
 ###About Me
 
 Welcome! As a software engineer, I love navigating consumer needs while creating robust, accessible applications to solve problems. I enjoy exploring the depths of End-to-End Machine Learning from data pipelining to deployment, and I am always open to using new tools and conquering new frameworks.
@@ -25,7 +26,7 @@ Currently, I am serving as **Teacher Assistant for Programming II**, where I hel
 | Category | Tools & Languages | Applied Implementations
 | :--- | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | **RL:** ![Stable Baselines3](https://img.shields.io/badge/SB3-Library-blueviolet?style=for-the-badge)] [![Gymnasium](https://img.shields.io/badge/Gymnasium-Env-lightgrey?style=for-the-badge)] [![DQN](https://img.shields.io/badge/DQN-Algorithm-ff69b4?style=for-the-badge)|
+| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | **RL:** ![Stable Baselines3](https://img.shields.io/badge/SB3-Library-blueviolet?style=for-the-badge) ![Gymnasium](https://img.shields.io/badge/Gymnasium-Env-lightgrey?style=for-the-badge) ![DQN](https://img.shields.io/badge/DQN-Algorithm-ff69b4?style=for-the-badge)|
 | **Game Dev** | ![Pygame](https://img.shields.io/badge/Pygame-%23333333.svg?style=for-the-badge&logo=pygame&logoColor=white) | ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) |
 
 <!--
