@@ -3,7 +3,7 @@
 
 Pronouns: He/Him
 
-**Senior CS Undergrad @ Tuskegee University** | **Machine Learning** | **Software Engineer**
+**CS Grad @ Georgia Tech** | **Machine Learning** | **Software Engineer**
 ---
 
 ### About Me
